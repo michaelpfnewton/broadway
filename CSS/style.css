@@ -4,4 +4,30 @@
 }
 #header {
   background-image: url("/Users/michaelnewton/Documents/Projects/Broadway/Resources/the-flatiron-building.png");
+  color: white;
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+a {
+  color: white;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+  font-weight: normal;
+}
+#footer {
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+  font-size: 11px;
 }
